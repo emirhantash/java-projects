@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" filepath="$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-projects.iml" filepath="$PROJECT_DIR$/.idea/java-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdv-cal/kdv-cal.iml" filepath="$PROJECT_DIR$/kdv-cal/kdv-cal.iml" />
     </modules>
   </component>
 </project>
