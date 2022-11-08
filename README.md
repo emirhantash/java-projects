@@ -1,3 +1,3 @@
-# Java Projects
+# Simple Java Practices
 
-*Some projects i made in java*
+## Grade Average Calculator
