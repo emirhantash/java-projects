@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/circle-area-perimeter-cal/circle-area-perimeter-cal.iml" filepath="$PROJECT_DIR$/circle-area-perimeter-cal/circle-area-perimeter-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" filepath="$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypo-cal/hypo-cal.iml" filepath="$PROJECT_DIR$/hypo-cal/hypo-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-projects.iml" filepath="$PROJECT_DIR$/.idea/java-projects.iml" />
