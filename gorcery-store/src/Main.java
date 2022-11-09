@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         float pear, apple, tomatoes, bananas, eggplant;
         Scanner input = new Scanner(System.in);
+
         /*
         * pear: 2,14$
         * apple: 3,67$
@@ -11,6 +12,7 @@ public class Main {
         * bananas: 0,95$
         * eggplant: 5,00$
         * */
+
         System.out.println("how many kilos of pears");
         pear = input.nextFloat();
         System.out.println("how many kilos of apples");
