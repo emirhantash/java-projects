@@ -128,7 +128,7 @@ public class Main {
                 System.out.println(" Passed");
         }
         else {
-            System.out.print(" Makeup: " + math3 + "AVG: " + (0.4 * math1 + 0.6 * math3));
+            System.out.print(" Makeup: " + math3 + " AVG: " + (0.4 * math1 + 0.6 * math3));
             if((0.4 * math1 + 0.6 * math3) < 55)
                 System.out.println(" Failed");
             else
@@ -144,7 +144,7 @@ public class Main {
                 System.out.println(" Passed");
         }
         else {
-            System.out.print(" Makeup: " + physics3 + "AVG: " + (0.4 * physics1 + 0.6 * physics3));
+            System.out.print(" Makeup: " + physics3 + " AVG: " + (0.4 * physics1 + 0.6 * physics3));
             if((0.4 * physics1 + 0.6 * physics3) < 55)
                 System.out.println(" Failed");
             else
@@ -160,7 +160,7 @@ public class Main {
                 System.out.println(" Passed");
         }
         else {
-            System.out.print(" Makeup: " + chemistry3 + "AVG: " + (0.4 * chemistry1 + 0.6 * chemistry3));
+            System.out.print(" Makeup: " + chemistry3 + " AVG: " + (0.4 * chemistry1 + 0.6 * chemistry3));
             if((0.4 * chemistry1 + 0.6 * chemistry3) < 55)
                 System.out.println(" Failed");
             else
@@ -176,7 +176,7 @@ public class Main {
                 System.out.println(" Passed");
         }
         else {
-            System.out.print(" Makeup: " + english3 + "AVG: " + (0.4 * english1 + 0.6 * english3));
+            System.out.print(" Makeup: " + english3 + " AVG: " + (0.4 * english1 + 0.6 * english3));
             if((0.4 * english1 + 0.6 * english3) < 55)
                 System.out.println(" Failed");
             else
@@ -192,7 +192,7 @@ public class Main {
                 System.out.println(" Passed");
         }
         else {
-            System.out.print(" Makeup: " + history3 + "AVG: " + (0.4 * history1 + 0.6 * history3));
+            System.out.print(" Makeup: " + history3 + " AVG: " + (0.4 * history1 + 0.6 * history3));
             if((0.4 * history1 + 0.6 * history3) < 55)
                 System.out.println(" Failed");
             else
