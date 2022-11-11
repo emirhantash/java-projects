@@ -32,7 +32,7 @@ public class Main {
                         System.out.println("Data input is complete");
                     }
                     counter++;
-                } while (newPassword.equals("emirhantash"));
+                } while (newPassword.equals("emirhantash123"));
             }
         }
         } while (yorn.equals("n"));
