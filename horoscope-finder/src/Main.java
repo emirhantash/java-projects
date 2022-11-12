@@ -2,13 +2,29 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int day, month;
+        int day = 0, month = 0, counter1 = 0, counter2 = 0;
         Scanner imp = new Scanner(System.in);
+        do {
+            if(counter1 > 0)
+                System.out.println("Invalid ");
+            else {
+                System.out.println("Please enter your birth month:");
+                month = imp.nextInt();
+            }
+            counter1++;
+        }while(month < 1 || month > 12);
 
-        System.out.println("Please enter your birth month:");
-        month = imp.nextInt();
-        System.out.println("Please enter your birth day:");
-        day = imp.nextInt();
+        do {
+            if(counter2 > 0)
+                System.out.println("Invalid ");
+            else {
+                System.out.println("Please enter your birth day:");
+                day = imp.nextInt();
+            }
+            counter2++;
+        }while(month < 1 || month > 31);
+
+
 
         if(month == 1){
             if(day >= 1 || day <= 21)
