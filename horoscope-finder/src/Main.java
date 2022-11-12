@@ -25,7 +25,6 @@ public class Main {
         }while(month < 1 || month > 31);
 
 
-
         if(month == 1){
             if(day >= 1 || day <= 21)
                 System.out.println("Capricorn");
