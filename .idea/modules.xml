@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/air-cond/air-cond.iml" filepath="$PROJECT_DIR$/air-cond/air-cond.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmi-cal/bmi-cal.iml" filepath="$PROJECT_DIR$/bmi-cal/bmi-cal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinese-zodiac/chinese-zodiac.iml" filepath="$PROJECT_DIR$/chinese-zodiac/chinese-zodiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/circle-area-perimeter-cal/circle-area-perimeter-cal.iml" filepath="$PROJECT_DIR$/circle-area-perimeter-cal/circle-area-perimeter-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/flight-ticket-price/flight-ticket-price.iml" filepath="$PROJECT_DIR$/flight-ticket-price/flight-ticket-price.iml" />
       <module fileurl="file://$PROJECT_DIR$/gorcery-store/gorcery-store.iml" filepath="$PROJECT_DIR$/gorcery-store/gorcery-store.iml" />
