@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/flight-ticket-price/flight-ticket-price.iml" filepath="$PROJECT_DIR$/flight-ticket-price/flight-ticket-price.iml" />
       <module fileurl="file://$PROJECT_DIR$/gorcery-store/gorcery-store.iml" filepath="$PROJECT_DIR$/gorcery-store/gorcery-store.iml" />
       <module fileurl="file://$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" filepath="$PROJECT_DIR$/grade-avg-cal/grade-avg-cal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harmonic-series/harmonic-series.iml" filepath="$PROJECT_DIR$/harmonic-series/harmonic-series.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscope-finder/horoscope-finder.iml" filepath="$PROJECT_DIR$/horoscope-finder/horoscope-finder.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypo-cal/hypo-cal.iml" filepath="$PROJECT_DIR$/hypo-cal/hypo-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-projects.iml" filepath="$PROJECT_DIR$/.idea/java-projects.iml" />
