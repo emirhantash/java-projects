@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/kdv-cal/kdv-cal.iml" filepath="$PROJECT_DIR$/kdv-cal/kdv-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/leap-year/leap-year.iml" />
       <module fileurl="file://$PROJECT_DIR$/login-menu/login-menu.iml" filepath="$PROJECT_DIR$/login-menu/login-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-avg-cal/number-avg-cal.iml" filepath="$PROJECT_DIR$/number-avg-cal/number-avg-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-cal/simple-cal.iml" filepath="$PROJECT_DIR$/simple-cal/simple-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-num/sort-num.iml" filepath="$PROJECT_DIR$/sort-num/sort-num.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxi-meter-cal/taxi-meter-cal.iml" filepath="$PROJECT_DIR$/taxi-meter-cal/taxi-meter-cal.iml" />
