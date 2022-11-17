@@ -9,4 +9,4 @@
 *The Fibonacci sequence starts from 0 and goes on to infinity. Each digit is added up with the previous digit. The result obtained is written on the right side of the figure. The first ten numbers of the Fibonacci sequence are as follows:*
 
 ```
-The Fibonacci series with 9 elements is as follows: : 0 1 1 2 3 5 8 13 21 34
+The Fibonacci series with 9 elements is as follows: : 0 1 1 2 3 5 8 13 21
