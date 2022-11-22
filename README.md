@@ -1,2 +1,3 @@
-# java-projects
-some projects i made in java
+# Java Projects
+
+*Some projects i made in java*
