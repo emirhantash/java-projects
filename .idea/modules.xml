@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/boxing-sim/boxing-sim.iml" filepath="$PROJECT_DIR$/boxing-sim/boxing-sim.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-projects.iml" filepath="$PROJECT_DIR$/.idea/java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/student-info-system/student-info-system.iml" filepath="$PROJECT_DIR$/student-info-system/student-info-system.iml" />
     </modules>
