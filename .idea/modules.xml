@@ -22,11 +22,11 @@
       <module fileurl="file://$PROJECT_DIR$/horoscope-finder/horoscope-finder.iml" filepath="$PROJECT_DIR$/horoscope-finder/horoscope-finder.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypo-cal/hypo-cal.iml" filepath="$PROJECT_DIR$/hypo-cal/hypo-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/inverted-triangle/inverted-triangle.iml" filepath="$PROJECT_DIR$/inverted-triangle/inverted-triangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-projects.iml" filepath="$PROJECT_DIR$/.idea/java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdv-cal/kdv-cal.iml" filepath="$PROJECT_DIR$/kdv-cal/kdv-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/largest-smallest/largest-smallest.iml" filepath="$PROJECT_DIR$/largest-smallest/largest-smallest.iml" />
       <module fileurl="file://$PROJECT_DIR$/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/leap-year/leap-year.iml" />
       <module fileurl="file://$PROJECT_DIR$/login-menu/login-menu.iml" filepath="$PROJECT_DIR$/login-menu/login-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max-min/max-min.iml" filepath="$PROJECT_DIR$/max-min/max-min.iml" />
       <module fileurl="file://$PROJECT_DIR$/number-avg-cal/number-avg-cal.iml" filepath="$PROJECT_DIR$/number-avg-cal/number-avg-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome-number/palindrome-number.iml" filepath="$PROJECT_DIR$/palindrome-number/palindrome-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/perfect-number/perfect-number.iml" />
@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive-prime-number/recursive-prime-number.iml" filepath="$PROJECT_DIR$/recursive-prime-number/recursive-prime-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-cal/simple-cal.iml" filepath="$PROJECT_DIR$/simple-cal/simple-cal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple-java-projects.iml" filepath="$PROJECT_DIR$/.idea/simple-java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-num/sort-num.iml" filepath="$PROJECT_DIR$/sort-num/sort-num.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum-of-digits/sum-of-digits.iml" filepath="$PROJECT_DIR$/sum-of-digits/sum-of-digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxi-meter-cal/taxi-meter-cal.iml" filepath="$PROJECT_DIR$/taxi-meter-cal/taxi-meter-cal.iml" />
