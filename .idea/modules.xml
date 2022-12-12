@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/recursive-fibonacci/recursive-fibonacci.iml" filepath="$PROJECT_DIR$/recursive-fibonacci/recursive-fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive-prime-number/recursive-prime-number.iml" filepath="$PROJECT_DIR$/recursive-prime-number/recursive-prime-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repeating-even-numbers/repeating-even-numbers.iml" filepath="$PROJECT_DIR$/repeating-even-numbers/repeating-even-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-cal/simple-cal.iml" filepath="$PROJECT_DIR$/simple-cal/simple-cal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/simple-java-projects.iml" filepath="$PROJECT_DIR$/.idea/simple-java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-num/sort-num.iml" filepath="$PROJECT_DIR$/sort-num/sort-num.iml" />
