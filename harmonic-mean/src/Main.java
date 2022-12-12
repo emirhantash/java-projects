@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Harmonic Series: " + add);
         avg = array.length/add;
         System.out.println("Harmonic Means: " + avg);
+
     }
 }
